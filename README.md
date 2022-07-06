@@ -1,6 +1,6 @@
 # 2022-1-Squad2
 
-- Tema do Trabalho:
+- Tema do Trabalho: **UnbFlow**
 - Linguagens e Canais de Comunicação Utilizados: Telegram e Discord
 
 # Integrantes do Squad 2
