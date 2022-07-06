@@ -39,15 +39,10 @@
 | Issues | Descrição                 | Resposáveis      | Pontos | Observação                                                                   |
 | ------ | ------------------------- | ---------------- | ------ | ---------------------------------------------------------------------------- |
 | 5      | Começar o product backlog | Mauricio e Lucas | 8      | As pessoas responsáveis nesta tarefa começaram a criar os epicos e freatures |
-
 | 6 | Estudo de tecnologia Flutter para front | 8 | Todos | Começar com os estudos de flutter e começar criando a estrutura básica do projeto |
-
 | 7 | Estudo de tecnologia node para back | 8 | Todos | Começar com os estudos de node e criar a estrutura básica do projeto |
-
 | 8 | Integração do Zenhub | Lucas Macedo| 5 | -- |
-
 | 9 | Finalizar template de issues | Luan | 3 | -- |
-
 | 10 | Adicionar script para apresentação quinta feira | Mauricio | 3 | -- |
 
 - **Total de Pontos:** _35_
