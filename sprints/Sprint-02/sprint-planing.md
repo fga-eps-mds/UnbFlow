@@ -48,7 +48,9 @@
 
 | 9 | Finalizar template de issues | Luan | 3 | -- |
 
-- **Total de Pontos:** _32_
+| 10 | Adicionar script para apresentação quinta feira | Mauricio | 3 | -- |
+
+- **Total de Pontos:** _35_
 
 ### Mapa Mental do projeto
 
